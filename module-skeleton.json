@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-inspections-flutter",
+  "capabilityKey": "liberusoftware/module-maintenance-inspections",
+  "presentation": "mobile-flutter",
+  "package": "module_maintenance_inspections_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/maintenance/nextjs/inspections.md",
+  "presentationPlan": "projects/maintenance/flutter/inspections.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
